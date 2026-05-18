@@ -1,5 +1,7 @@
 # Sean Anthony
 
+<img align="right" src="./assets/sean-anthony-portrait.jpg" width="180" alt="Sean Anthony professional portrait" />
+
 Self-taught AI/ML engineer building production-style tools across generative media, autonomous agents, trading systems, browser automation, and full-stack web apps.
 
 I keep most source code private because the code is the product. The public repos here are showcase READMEs: architecture notes, technical scope, stack decisions, and project summaries without proprietary code or credentials.
@@ -41,4 +43,3 @@ I keep most source code private because the code is the product. The public repo
 - Trading research systems with live market ingestion, paper/live execution modes, replay logs, strategy testing, and ML/RL experiments.
 - Creator and music platforms with memberships, rewards, downloads, live communication, community features, and payment flows.
 - Browser automation systems that coordinate persistent sessions, dashboards, queues, state tracking, and external APIs.
-
